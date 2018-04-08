@@ -6,6 +6,12 @@
 Assets/AssetStoreTools*
 Assets/Standard Assets/
 
+#too big for version control, and not mine
+Assets/Turret/
+Assets/Bridge/
+Assets/Bridge lighter/
+Assets/chibitank/
+
 # Visual Studio cache directory
 /.vs/
 
